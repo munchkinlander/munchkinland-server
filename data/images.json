@@ -271,5 +271,19 @@
     "name": "TLOU Moth (white)",
     "link": "https://www.etsy.com/ca/listing/1257499740/tlou-moth-vinyl-stickers",
     "category": "The Last of Us"
-  }
+  },
+  {
+    "src": "/images/wallpapers.jpg",
+    "alt": "Minimalist wallpaper bundle",
+    "name": "Minimalist Wallpapers",
+    "link": "https://www.etsy.com/ca/listing/1319831033/uhd-minimalist-wallpaper-bundle-iphone",
+    "category": "Wallpapers"
+  },
+    {
+      "src": "/images/comms.jpg",
+      "alt": "Blank sticker with 'Commissions are open!'",
+      "name": "Custom Commission",
+      "link": "https://forms.gle/kS88sASxLKbuBQH18",
+      "category": "Wallpapers"
+    }
 ]
