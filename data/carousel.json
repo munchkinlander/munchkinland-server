@@ -1,10 +1,42 @@
 [
-  { "src": "/images/frogmaze-c.jpg", "alt": "Cat frog with background" },
-  { "src": "/images/pika-ic-c.jpg", "alt": "Yellow Pokemon double scroop ice cream with background" },
-  { "src": "/images/raikou-c.jpg", "alt": "Baby raikou biting pillow with background" },
-  { "src": "/images/agu-c.jpg", "alt": "Agumon with background" },
-  { "src": "/images/kera-c.jpg", "alt": "Keramon with background" },
-  { "src": "/images/terrier-c.jpg", "alt": "Terriermon with background" },
-  { "src": "/images/lop-c.jpg", "alt": "Lopmon with background" },
-  { "src": "/images/gato-c.jpg", "alt": "Gatomon with background" }
+  {
+    "src": "/images/frogmaze-c.webp",
+    "fallback": "/images/frogmaze-c.jpg",
+    "alt": "Cat frog with background"
+  },
+  {
+    "src": "/images/pika-ic-c.webp",
+    "fallback": "/images/pika-ic-c.jpg",
+    "alt": "Yellow Pokemon double scroop ice cream with background"
+  },
+  {
+    "src": "/images/raikou-c.webp",
+    "fallback": "/images/raikou-c.jpg",
+    "alt": "Baby raikou biting pillow with background"
+  },
+  {
+    "src": "/images/agu-c.webp",
+    "fallback": "/images/agu-c.jpg",
+    "alt": "Agumon with background"
+  },
+  {
+    "src": "/images/kera-c.webp",
+    "fallback": "/images/kera-c.jpg",
+    "alt": "Keramon with background"
+  },
+  {
+    "src": "/images/terrier-c.webp",
+    "fallback": "/images/terrier-c.jpg",
+    "alt": "Terriermon with background"
+  },
+  {
+    "src": "/images/lop-c.webp",
+    "fallback": "/images/lop-c.jpg",
+    "alt": "Lopmon with background"
+  },
+  {
+    "src": "/images/gato-c.webp",
+    "fallback": "/images/gato-c.jpg",
+    "alt": "Gatomon with background"
+  }
 ]
