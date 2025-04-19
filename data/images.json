@@ -273,17 +273,31 @@
     "category": "The Last of Us"
   },
   {
+    "src": "/images/magician.jpg",
+    "alt": "Dark Magician Girl sticker",
+    "name": "Dark Magician Girl",
+    "link": "https://www.etsy.com/ca/listing/1257499740/tlou-moth-vinyl-stickers",
+    "category": "Yugioh"
+  },
+  {
     "src": "/images/wallpapers.jpg",
     "alt": "Minimalist wallpaper bundle",
     "name": "Minimalist Wallpapers",
     "link": "https://www.etsy.com/ca/listing/1319831033/uhd-minimalist-wallpaper-bundle-iphone",
-    "category": "Wallpapers"
+    "category": "Other"
   },
     {
-      "src": "/images/comms.jpg",
-      "alt": "Blank sticker with 'Commissions are open!'",
-      "name": "Custom Commission",
-      "link": "https://forms.gle/kS88sASxLKbuBQH18",
-      "category": "Wallpapers"
-    }
+    "src": "/images/bookmarks.jpg",
+    "alt": "Painted nature booksmarks",
+    "name": "Bookmarks",
+    "link": "https://forms.gle/kS88sASxLKbuBQH18",
+    "category": "Other"
+  },
+  {
+    "src": "/images/comms.jpg",
+    "alt": "Blank sticker with 'Commissions are open!'",
+    "name": "Custom Commission",
+    "link": "https://forms.gle/kS88sASxLKbuBQH18",
+    "category": "Other"
+  }
 ]
