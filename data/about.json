@@ -1,0 +1,46 @@
+{
+  "cats": [
+    {
+      "src": "the-council.webp",
+      "fallback": "the-council.jpg",
+      "alt": "Cats on stairs"
+    },
+    {
+      "src": "the-nose.webp",
+      "fallback": "the-nose.jpg",
+      "alt": "Cat face closeup"
+    },
+    {
+      "src": "the-destroyer.webp",
+      "fallback": "the-destroyer.jpg",
+      "alt": "Cat chewing on string"
+    },
+    {
+      "src": "the-watchers.webp",
+      "fallback": "the-watchers.jpg",
+      "alt": "Cats at window"
+    }
+  ],
+  "art": [
+    {
+      "src": "digi-babies.webp",
+      "fallback": "digi-babies.png",
+      "alt": "Stickers on cards"
+    },
+    {
+      "src": "rubberhose.webp",
+      "fallback": "rubberhose.jpg",
+      "alt": "Rubberhose style drawing"
+    },
+    {
+      "src": "custom-card.webp",
+      "fallback": "custom-card.jpg",
+      "alt": "Custom card design on tablet"
+    },
+    {
+      "src": "digimon-evos.webp",
+      "fallback": "digimon-evos.png",
+      "alt": "Sticker line on cards"
+    }
+  ]
+}
